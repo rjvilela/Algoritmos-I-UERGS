@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/workspace/Algoritmos-I-UERGS",
-      "program": "/workspace/Algoritmos-I-UERGS/build/Debug/outDebug",
+      "cwd": "/workspace/Algoritmos-I-UERGS/AULA 03 - Operadores lógicos e artméticos",
+      "program": "/workspace/Algoritmos-I-UERGS/AULA 03 - Operadores lógicos e artméticos/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
