@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/rjvil/OneDrive/Documents/GitHub/Algoritmos-I-Uergs",
-      "program": "c:/Users/rjvil/OneDrive/Documents/GitHub/Algoritmos-I-Uergs/build/Debug/outDebug",
+      "cwd": "c:/Users/rjvil/OneDrive/Documents/GitHub/Algoritmos-I-Uergs/aula 9",
+      "program": "c:/Users/rjvil/OneDrive/Documents/GitHub/Algoritmos-I-Uergs/aula 9/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
