@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/workspace/Algoritmos-I-UERGS/AULA 03 - Operadores lógicos e artméticos",
-      "program": "/workspace/Algoritmos-I-UERGS/AULA 03 - Operadores lógicos e artméticos/build/Debug/outDebug",
+      "cwd": "/workspace/Algoritmos-I-UERGS/AULA 5 - decisão switch case",
+      "program": "/workspace/Algoritmos-I-UERGS/AULA 5 - decisão switch case/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
