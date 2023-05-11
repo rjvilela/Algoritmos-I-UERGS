@@ -1,0 +1,68 @@
+1) Um posto de combustíveis está realizando descontos no litro do combustível, conforme a tabela:
+Combustível	Quantidade de Litros	Desconto
+Álcool(1)	De 10 até  20 litros	3%
+Álcool(1)	Acima de 20 litros	5%
+Gasolina(2)	De 20 até 30 litros	7%
+Gasolina(2)	Acima de 30 litros	8%
+
+Você será o responsável por emitir a nota fiscal para o consumidor e nela deverá aparecer as seguintes informações:
+-Tipo de Combustível 
+- Quantidade de litros do abastecimento
+- valor do litro sem desconto
+- valor do desconto por litro
+- valor do litro com o desconto
+- valor total da nota a ser paga pelo cliente
+
+O caixa do posto irá informar as informações necessárias para o processamento, tais como o tipo de combustível do abastecimento (1 – álcool e 2- gasolina), quantidade abastecida e o valor do litro do combustível abastecido.
+
+2) Para comprar um presente para o dia das mães, uma criança guardou durante 1 ano valores referentes ao troco da merenda da escola. Você foi convidado a desenvolver um programa para gerenciar as economias da criança, que armazena cada moeda economizada em um cofrinho. Na véspera do dia das mães a criança combinou com o pai que irá quebrar o cofrinho e ambos sairão para comprar o presente. Ao quebrar o cofrinho serão contabilizadas as moedas armazenadas, assim definindo o valor economizado. Sabe-se que as moedas do cofrinho podem ser dos seguintes valores: R$ 0,05; R$ 0,10; R$ 0,25; R$ 0,50 e R$ 1,00. Você deverá informar até qual valor poderá ser o presente e perguntar se deseja comprar algo mais caro. Se a criança informar que deseja comprar algo mais caro, o programa deve solicitar qual o valor do presente (valide se ele é realmente maior que o valor do cofrinho, e não for emita mensagem adequada). O programa deverá informar qual valor que a criança deverá solicitar ao pai para conseguir comprar o presente desejado, claro que ela continuará utilizando o valor do cofre nesta situação também.
+
+3) Observe o seguinte programa e informe qual o seu objetivo, qual a saída caso os valores informações sejam 12, 25 e 10, nesta ordem e se existe algum problema que o faça não compilar.
+
+main()
+{
+ int x, y, z;
+ scanf("%d", &x);
+ scanf("%d", &y);
+ scanf("%d", &z);
+ if (x < y)  
+ {                                        
+   if (y < z) 
+   {
+     printf("%d%d%d\n", x, y, z);  
+   }     
+   else  
+   {                                           
+     if (x < z)
+     { 
+       printf("%d%d%d\n", x, z, y); 
+     }   
+     else 
+     {
+        printf("%d%d%d\n", y, x, z);  
+     } 
+   }
+  }       
+  else   
+  {                                              
+    if (z < y) 
+    {                                       
+      if (x < y) 
+      {
+        printf("%d%d%d\n", z, x, y);  
+      }  
+      else 
+      {
+        printf("%d%d%d\n", z, y, x);   
+      }
+     }       
+     else
+     { 
+       printf("%d%d%d\n", y ,z, x);  
+     }  
+    }
+   }         
+    return 0;
+ }
+
+

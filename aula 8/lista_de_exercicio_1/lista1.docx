@@ -1,0 +1,11 @@
+Lista Exercícios Vetores
+1)	Faça um programa que lê valores inteiros maiores que 10 em um vetor de 7 posições. Posteriormente crie um 
+outro vetor com os elementos ímpares do vetor original. Ao final do programa imprima os dois vetores criados.
+2)	Um fazendeiro deseja controlar o peso de seu pequeno rebanho de cabras, assim ele irá por 3 meses pesar 
+cada um de seus 10 animais e registar o peso de cada um. Você irá criar um programa que possibilite estes 
+registros mensais para as 10 cabras. O programa irá mostrar para cada animal a perda ou ganho de pesos nos
+ três meses e identificar em qual mês o animal teve o maior peso. Informe, também, o peso total do rebanho 
+ no último mês e o valor da diferença entre o primeiro mês e o último mês do registro. 
+3)	Faça um programa que armazena valores de salários dos últimos 5 meses de um funcionário. O funcionário
+ pode receber a mais de um mês para outro maior, mas nunca menos. Informe ao final se o funcionário recebeu
+  algum aumento e em que mês. Calcule o valor total recebido nos 5 meses.

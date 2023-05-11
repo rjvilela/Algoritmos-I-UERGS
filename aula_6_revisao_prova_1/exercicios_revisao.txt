@@ -1,0 +1,46 @@
+Algoritmos e Programação 					Prova 1
+Nome:_______________________________________________
+1)	Implementar um programa que calcula o desconto previdenciário de um funcionário. O programa deve imprimir o valor do desconto proporcional ao salário informado na tela (que não poderá ser menor ou igual a zero). O cálculo do desconto segue a regra: o desconto deve ser de 11% do valor do salário, entretanto, o valor máximo de desconto é de  R$318,20. Sendo assim, ou resultado do valor do desconto previdenciário deverá ser 11% sobre o salário ou 318,20.
+
+2)	Um funcionário irá receber um aumento no seu salário de acordo com o seu setor de trabalho, conforme a tabela abaixo: 
+
+Setor    Aumento
+A            10%
+B            15%
+C            20%
+D            25%
+E            20%
+
+Faça um programa que leia o setor de trabalho e o salário atual de um funcionário e calcula e imprime o seu novo salário.
+
+
+3)	Observe a estrutura do switch abaixo  e diga se está correta ou não. Justifique. Se incorreto altere para que torne-se correto.
+switch(t)
+{ 
+  case t < 10: 
+              printf("Hoje ta' fazendo muito frio"); 
+              break; 
+        case t < 25: 
+              printf("A temperatura está agradavel"); 
+              break; 
+        default: 
+              printf("Hoje ta' quente pra chuchu"); 
+ } 
+
+
+
+
+
+4)	Observe a estrutura do switch abaixo  e diga se está correta ou não. Justifique. . Se incorreto altere para que torne-se correto.
+num = 1; 
+switch(num) 
+{ 
+   case 1: 
+           printf("O numero e 1 ");
+           break; 
+   case 2: 
+          printf("O numero e 2 ");
+          break; 
+   default: 
+          printf("O numero e diferente de 1 e 2"); 
+ }   

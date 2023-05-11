@@ -1,0 +1,30 @@
+Lista de Exercícios – Laço de Repetição
+1)	Escreva um programa que lê o tamanho do lado de um quadrado e imprime um quadrado daquele tamanho com 
+asteriscos e espaços em branco. Seu programa deve funcionar para quadrados com lados de todos os tamanhos 
+entre 1 e 20.
+Para lado igual a 5:
+
+*****
+*    *
+*    *
+*    *
+*****
+2)	Escreva um programa que leia o número de habitantes de uma determinada cidade, o valor do kwh e, para cada 
+habitante, entre com os dados: consumo do mês e o código do consumidor (1: residencial, 2: comercial, 
+3: industrial). No nal, imprima o maior, o menor e a média de consumo dos habitantes e, por m, o total de 
+consumo de cada categoria de consumidor.
+
+3)	Faça um programa que calcule a área de um triângulo, cuja base e altura são fornecidas pelo usuário. Esse
+ programa não pode permitir a entrada de dados inválidos, ou seja, medidas menores ou iguais a 0.
+
+4)	 Faça um programa que leia um conjunto não determinado de valores, um de cada vez, e escreva para cada um 
+dos valores lidos, o quadrado, o cubo e a raiz quadrada. Finalize a entrada de dados com um valor negativo ou 
+zero.
+
+5)	Um funcionário recebe aumento anual. Em 1995 foi contratado por 2000 reais. Em 1996 recebeu aumento de 
+1.5%. A partir de 1997, os aumentos sempre correspondem ao dobro do ano anterior. Faça programa que determine 
+o salário atual do funcionário.
+
+6)	Chico tem 1,50 metro e cresce 2 centímetros por ano, enquanto Zé tem 1,10 metros e cresce 3 centímetros
+ por ano. Construa um algoritmo que calcule e imprima quantos anos serão necessários para que Zé seja maior 
+ que Chico.
