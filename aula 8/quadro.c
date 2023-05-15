@@ -34,3 +34,10 @@ int main ()
     }
 
 }
+
+
+/* 
+sempre terei que trabalhar com a variavel indice (i)
+OBS - no moodle ela ira deixar o codigo das cabras faltando terminar o final- comparar o vetor 3 com
+vetor 2 e tambem imprimir o valor total do rebanho no terceiro mes.
+*/

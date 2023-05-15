@@ -1,0 +1,9 @@
+MATRIZES
+
+int mat[numero de linhas][numero de colunas]
+ex: int matriz[3][2];
+
+0 1
+1
+2
+

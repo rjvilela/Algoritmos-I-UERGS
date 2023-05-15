@@ -18,24 +18,25 @@ int i, j=0, cabra = 0;
 
 for (i=0; i<10; i++)
 {
-printf ("\ndigite o peso de cada animal\n cabra %d :" ,i+1);
+printf ("\ndigite o peso da cabra %d no mes 1", i);
 scanf ("%d", & mes1[i]);
-}
 
-// criacao do vetor mes2
-for (i=0; i<10; i++)
+while (mes1[i] <= 0)
 {
-printf ("\ndigite o peso de cada animal no segundo mes \n cabra %d :" ,i+1);
+printf ("\ndigite o peso da cabra %d no mes 2", i);;
 scanf ("%d", & mes2[i]);
 }
+// criacao do vetor mes2
+printf ("\ndigite o peso da cabra %d no mes 2", i);
+scanf ("%d", & mes2[i]);
 
-// criacao do vetor mes3
-
-for (i=0; i<10; i++)
+while (mes2[i] <= 0)
 {
-printf ("\ndigite o peso de cada animal no segundo mes \n cabra %d :" ,i+1);
-scanf ("%d", & mes3[i]);
+printf ("\ndigite o peso de cada animal\n cabra %d :" ,i);
+scanf ("%d", & mes2[i]);
 }
-
+}
+}
+}
 
 //informacoes de cada cabra
