@@ -1,0 +1,12 @@
+Lista Exercícios Matrizes
+1)	Elabore um programa que manipule com uma matriz 4 x 4 de inteiros, conte e escreva quantos valores maiores
+ que 10 ela possui.
+2)	Faça um programa que preenche uma matriz 4 x 4  de inteiros com o produto do valor da linha e da coluna 
+ de cada elemento. Em seguida, imprima na tela a matriz. 
+3)	Faça um programa que manipule com uma matriz 4 x 4 de inteiros, imprima a matriz e retorne a localização 
+ (linha e a coluna) do maior valor. 
+4)	Faça um programa que manipule com uma matriz 5 x 5 de inteiros. Leia também um valor inteiro independente.
+ O programa deverá fazer uma busca à desse valor na matriz e, ao final, escrever a localização (linha e coluna)
+ ou uma mensagem de “não encontrado”. 
+5)	Faça um programa que crie duas matrizes 4 x 4 de inteiros  e posteriormente cria  uma terceira com os 
+ maiores valores de cada posição das matrizes lidas.

@@ -1,23 +1,27 @@
-45	67	89	55	88
-0			1		2			3		4
-#include <stdio.h>
+// 1)	Faça um programa que lê valores inteiros maiores que 10 em um vetor de 7 posições. 
+//Posteriormente crie um outro vetor com os elementos ímpares do vetor original. 
+//Ao final do programa imprima os dois vetores criados.
 
+#include<stdio.h>
 int main()
 {
-   int vetor[5], i;
-   for (i=0;  i<5;   i++)
-   {
-      printf ("\n Informe um valor");
-      scanf ("%d", &vetor[i]);
-   }
-   for (i=0;  i<5;   i++)
-   {
-      printf ("\n valor do indice %d = %d", i, vetor[i]);
-   }  
-   for (i=4;  i>=0;   i--)
-   {
-      printf ("\n valor do indice %d = %d", i, vetor[i]);
-   }
-}     
+    int original[7], impar [7], i, cont = 0;
     
-      
+    for (i = 0; i <= 7; i++)
+    {
+       printf ("\n Digite uma valor maior que 10 ");
+       scanf ("%d", &original[i]);
+       while (original[i] <= 10)
+       {
+           printf ("\no valor informado deve ser maior que 10");
+           scanf ("%d", &original[i]);
+       }
+    }
+    for (i = 0; i <= 7; i++)
+    {
+        if (original[i]%2 != 0)
+        {
+            impar[cont] = original[i];
+            cont++;
+        }
+    }

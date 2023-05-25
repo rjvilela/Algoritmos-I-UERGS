@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/rjvil/OneDrive/Documents/GitHub/Algoritmos-I-Uergs/aula 7 prova",
-      "program": "c:/Users/rjvil/OneDrive/Documents/GitHub/Algoritmos-I-Uergs/aula 7 prova/build/Debug/outDebug",
+      "cwd": "c:/Users/rjvil/OneDrive/Documents/GitHub/Algoritmos-I-Uergs/aula 8/Lista_exercicio_aula8",
+      "program": "c:/Users/rjvil/OneDrive/Documents/GitHub/Algoritmos-I-Uergs/aula 8/Lista_exercicio_aula8/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
